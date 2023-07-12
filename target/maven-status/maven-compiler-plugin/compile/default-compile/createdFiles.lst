@@ -1,0 +1,7 @@
+models\Result.class
+enums\Categoria.class
+daos\TicketsDaoMysql.class
+services\TicketsServices.class
+controllers\TicketsController.class
+config\Conexion.class
+models\Ticket.class
